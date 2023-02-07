@@ -12,7 +12,7 @@ source $HOME/.config/nvim/Extract.lua
 source $HOME/.config/nvim/after/cmp.lua
 source $HOME/.config/nvim/after/toggleterm.lua
 source $HOME/.config/nvim/after/bufferline.vim
-
+------------------------------------------------------------
 "toggleterm 
 nnoremap <A-t> :ToggleTerm<CR>
 "setting color
